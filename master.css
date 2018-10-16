@@ -1,0 +1,40 @@
+#logo {
+  font-size: 30px;
+}
+
+.brand-logo:hover {
+  color: black;
+  text-transform: initial;
+}
+
+#bro {
+   padding-top: 10%;
+}
+
+.card {
+  color: white;
+  padding: 20px;
+  background-color: rgba(0,0,0,0.1);
+  border-radius: 25px;
+}
+
+.card:hover{
+  background-color: rgba(0,0,0,0.3);
+
+}
+
+body {
+  background: #ef5350;
+  color: white;
+  font-size: 30px;
+}
+
+.temp{
+  cursor: pointer;
+  color: white;
+  text-decoration: underline;
+}
+
+.temp:hover{
+  color: black;
+}
